@@ -1,0 +1,4 @@
+total 1
+-rw-r--r-- 1 stuth 197609  0 Feb 16 07:46 jenkinsfile.txt
+-rw-r--r-- 1 stuth 197609  0 Feb 16 09:29 notofy.txt
+-rw-r--r-- 1 stuth 197609 29 Feb 16 07:53 stuthi.txt
